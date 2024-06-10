@@ -49,6 +49,15 @@ Follow these steps to set up the project locally:
 - `pages/`: Contains various pages such as login, register, cart, checkout, etc.
 - `freshcery.sql`: SQL file to set up the database schema.
 
+![php1](https://github.com/Vedang1102/freshcery/assets/58174308/9215e9f4-b6e5-4f1a-a5f7-5f73dc900ec7)
+
+![php2](https://github.com/Vedang1102/freshcery/assets/58174308/34205dda-5c3a-49d9-b0f6-1b84876131e3)
+
+![php4](https://github.com/Vedang1102/freshcery/assets/58174308/d15e0785-8ac0-449e-b876-416e3fa52469)
+
+![php5](https://github.com/Vedang1102/freshcery/assets/58174308/4a72c5eb-2d5c-4a04-8bcc-4a07ddd1342e)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
